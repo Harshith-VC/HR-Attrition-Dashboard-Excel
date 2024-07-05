@@ -3,6 +3,7 @@
 ## Overview
 
 The HR Attrition Dashboard is designed to provide insightful analysis on employee attrition, helping HR departments to craft effective retention strategies. The dashboard offers a detailed look into various factors contributing to employee turnover, enabling proactive measures to enhance workforce satisfaction and retention.
+![Thumbnail](https://github.com/Harshith-VC/HR-Attrition-Dashboard-Excel/assets/158494053/3ad4eb5b-71f9-45c7-a97a-5564cef7b387)
 
 ## Background
 
